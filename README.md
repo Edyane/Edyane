@@ -1,4 +1,4 @@
-### Olá, mundo! ☕🍩
+### <div align="center"> Olá, mundo! ☕🍩 </div>
 
 <!--
 **Edyane/Edyane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
