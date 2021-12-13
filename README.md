@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--->
 <div align="center">
   <a href="https://github.com/Edyane">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
