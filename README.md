@@ -1,4 +1,4 @@
-### <h2 align="center"> Olá, mundo! ☕🍩 </h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <h2 align="center"> Olá, mundo! ☕🍩 </h2> 
  
 <!--
 **Edyane/Edyane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><em>Software Engineering student at <a target="_blank" href="http://portal.utfpr.edu.br/">UnB </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></em></p>
+
 
 <div align="center">
   <a href="https://github.com/Edyane">
