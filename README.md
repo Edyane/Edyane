@@ -33,7 +33,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Edyane-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Edyane-pic" height="170" style="border-radius:100px;"  src="https://cdn.discordapp.com/attachments/884155938985111702/920296105403629598/nene_quase_rindinho.png" style="border-radius: 1px solid">
  
- <p align="center"> Quantidade de visitas no meu perfil: </p>
+ ##
+ 
+ <p align="center">Quantidade de visitas no meu perfil:</p>
  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Edyane/count.svg" /></p>
   
   ##
