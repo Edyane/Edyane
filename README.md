@@ -35,7 +35,9 @@ Here are some ideas to get you started:
  
  ##
  
- <p align="center">Quantidade de visitas no meu perfil: <br></p><p align="center"> 
+ <p align="center">
+ Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></p>
+<p align="center">  
  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Edyane/count.svg" /></p>
   
   ##
