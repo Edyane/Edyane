@@ -34,15 +34,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Edyane-pic" height="170" style="border-radius:100px;"  src="https://cdn.discordapp.com/attachments/884155938985111702/920296105403629598/nene_quase_rindinho.png" style="border-radius: 1px solid">
  
  ##
- <p align="center">
- Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/murilofarias10/count.svg" /></p>
-<p align="center">
-Obrigado e volte sempre 😄
-</p>
+ <img alingn="center" src="https://profile-counter.glitch.me/Edyane/count.svg" /></p><p align="center">
   
-  ##
+ ##
   
   <div> 
   <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
