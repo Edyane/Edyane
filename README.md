@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Edyane-pic" height="170" style="border-radius:100px;"  src="https://cdn.discordapp.com/attachments/884155938985111702/920296105403629598/nene_quase_rindinho.png" style="border-radius: 1px solid">
  
  <p align="center">?</p>
- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/https://github.com/Edyane/count.svg" /></p>
+ <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Edyane/count.svg" /></p>
   
   ##
   
