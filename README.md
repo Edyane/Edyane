@@ -33,9 +33,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Edyane-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Edyane-pic" height="170" style="border-radius:100px;"  src="https://cdn.discordapp.com/attachments/884155938985111702/920296105403629598/nene_quase_rindinho.png" style="border-radius: 1px solid">
  
+ ##
+ 
   <div> 
   <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+   
+ ##  
     
   ![Snake animation](https://github.com/edyane/edyane/blob/output/github-contribution-grid-snake.svg)
