@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><em>Software Engineering student at <a target="_blank" href="https://www.unb.br/">UnB </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></em></p>
+ 
 
 
 <div align="center">
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Edyane-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Edyane-pic" height="170" style="border-radius:100px;"  src="https://cdn.discordapp.com/attachments/884155938985111702/920296105403629598/nene_quase_rindinho.png" style="border-radius: 1px solid">
  
- <p align="center">?</p>
+ <p align="center"> Quantidade de visitas no meu perfil: </p>
  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Edyane/count.svg" /></p>
   
   ##
