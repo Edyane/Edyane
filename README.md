@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Edyane-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Edyane-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
-  <img align="right" alt="Edyane-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/884155938985111702/920296105403629598/nene_quase_rindinho.png" style="border-radius: 1px solid">
+  <!--<img align="right" alt="Edyane-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/884155938985111702/920296105403629598/nene_quase_rindinho.png" style="border-radius: 1px solid">-->
  
  ---
  
