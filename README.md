@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+- 👯 Software engineering student at UnB <img src="https://giphy.com/embed/hPTZgtzfRIB5Nfb5rL" width="30"> 
+- 🌱 I’m currently learning JavaScript, Angular & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+
 <div align="center">
   <a href="https://github.com/Edyane">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
