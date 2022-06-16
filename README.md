@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 💻 Software engineering student at UnB <img src="https://media.giphy.com/media/1oKjCzdnatyyMxkdxF/giphy.gif" width="30"> 
+- 💻 Software engineering student at UnB <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> 
 - 📚 I’m currently learning JavaScript, Angular & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
