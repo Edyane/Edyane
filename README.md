@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
 - 💻 Software engineering student at UnB <img src="https://media.giphy.com/media/jmSi1xSHBJuDfQTiEN/giphy.gif" width="30"> 
 - 📚 I’m currently learning JavaScript, Angular & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+-->
 
 
 <div align="center">
