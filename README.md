@@ -45,5 +45,5 @@ Here are some ideas to get you started:
    
 ![Snake animation](https://github.com/edyane/edyane/blob/output/github-contribution-grid-snake.svg)
    
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edyane&color=green" alt="Profile views"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edyane&color=ff69b4" alt="Profile views"/> </p>
 
