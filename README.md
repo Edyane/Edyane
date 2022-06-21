@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning JavaScript, Angular & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 -->
 
+```javascript
+let Edyane = {
+    country: 'Brazil',
+    city: 'Brasília, DF',
+    stack: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],    
+    interestedIn: ['React', 'Angular', 'TypeScript', 'Java'],
+    hobbies: ['LeagueofLegends', 'Animes', 'Movies']
+};
+```
+
+
 
 <div align="center">
   <a href="https://github.com/Edyane">
