@@ -27,8 +27,6 @@ let Edyane = {
 };
 ```
 
-
-
 <div align="center">
   <a href="https://github.com/Edyane">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
