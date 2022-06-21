@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ```javascript
 let Edyane = {
-    country: 'Brazil',
-    city: 'Brasília, DF',
+    country: 'Brazil',    
     stack: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],    
     interestedIn: ['React', 'Angular', 'TypeScript', 'Java'],
     hobbies: ['LeagueofLegends', 'Animes', 'Movies']
