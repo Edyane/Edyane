@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-let Edyane = {
+const Edyane = {
     country: 'Brazil',    
     education: ['SoftwareEngineering', 'OracleOne'],
     stack: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],    
