@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💻 Software engineering student at UnB <img src="https://media.giphy.com/media/jmSi1xSHBJuDfQTiEN/giphy.gif" width="30"> 
 - 📚 I’m currently learning JavaScript, Angular & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
--->
 
 ```javascript
 const Edyane = {
@@ -25,11 +24,14 @@ const Edyane = {
     hobbies: ['LeagueofLegends', 'Animes', 'Movies']
 };
 ```
+-->
+
 
 <div align="center">
   <a href="https://github.com/Edyane">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyane&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em"src="https://github-readme-streak-stats.herokuapp.com/?user=edyane&theme=tokyonight&hide_border=false"<br/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyane&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -55,4 +57,18 @@ const Edyane = {
 ![Snake animation](https://github.com/edyane/edyane/blob/output/github-contribution-grid-snake.svg)
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edyane&color=ff69b4" alt="Profile views"/> </p>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=edyane&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=edyane&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edyane&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=edyane&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
