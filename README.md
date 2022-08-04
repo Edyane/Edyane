@@ -4,7 +4,6 @@
 
 - Software engineering student at Universidade de Brasília
 - I’m currently learning JavaScript, React and UI/UX designer
-- Interested in: Java, Spring, Angular, Dart and Flutter
 - Hobbies: League of Legends, The Sims, TFT and animes 
 
 
