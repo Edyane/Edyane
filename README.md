@@ -30,8 +30,8 @@
 
 <div align="center">
   <a href="https://github.com/Edyane">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyane&layout=compact&langs_count=7&theme=cobalt"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyane&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div> 
 
 <!--<img align="right" alt="Edyane-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/884155938985111702/920296105403629598/nene_quase_rindinho.png" style="border-radius: 1px solid">-->
