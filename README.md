@@ -1,6 +1,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=edyane&data=followers,repositories,stars,commits)](https://github.com/edyane/github-widgetbox)
 
- #### Hello, welcome to my profile 🍩
+ #### Hello, welcome to my profile =^.^=
 
 - I’m currently learning JavaScript, Java & Angular
 - Interested in: React and UI/UX designer
