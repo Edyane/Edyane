@@ -4,7 +4,7 @@
 
 - I’m currently learning JavaScript, Java & Angular
 - Interested in: React and UI/UX designer
-- Hobbies: League of Legends, The Sims, TFT and animes 
+- Hobbies: League of Legends, The Sims and animes 
 
 
  ### Contact: 
