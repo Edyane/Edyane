@@ -2,7 +2,6 @@
 
  #### Hello, welcome to my profile 🍩
 
-- Software engineering student at Universidade de Brasília
 - I’m currently learning JavaScript, Java & Angular
 - Interested in: React and UI/UX designer
 - Hobbies: League of Legends, The Sims, TFT and animes 
