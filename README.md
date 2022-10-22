@@ -41,12 +41,6 @@
 </div>
 
 <div align="center">
-  <h1>𝖲𝗍𝗋𝖾𝖺𝗄 𝖲𝗍𝖺𝗍𝗌</h1>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=edyane&theme=dracula)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
   <h1>𝖲𝗍𝖺𝗍𝗌</h1>
     <a href="https://github.com/Edyane">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
