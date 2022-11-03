@@ -11,8 +11,7 @@
 </div>
 
 <div align="center">
- <h1>𝖠𝖻𝗈𝗎𝗍 𝗆𝖾</h1> 
- ♡ 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀: 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍, 𝖠𝗇𝗀𝗎𝗅𝖺𝗋 & 𝖯𝖧𝖯 ♡ <br>
+ <h1>𝖠𝖻𝗈𝗎𝗍 𝗆𝖾</h1>  
  ♡ 𝖧𝗈𝖻𝖻𝗂𝖾𝗌: 𝖫𝖾𝖺𝗀𝗎𝖾 𝗈𝖿 𝖫𝖾𝗀𝖾𝗇𝖽𝗌, 𝖳𝗁𝖾 𝖲𝗂𝗆𝗌 𝖺𝗇𝖽 𝖠𝗇𝗂𝗆𝖾𝗌 ♡
 </div>
 
@@ -27,17 +26,10 @@
   <h1>𝖲𝗍𝖺𝖼𝗄𝗌</h1>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=ff80bf&style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=ff80bf&style=for-the-badge&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=ff80bf&style=for-the-badge&logo=javascript&logoColor=white)
-  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?&color=ff80bf&style=for-the-badge&logo=angularjs&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=ff80bf&style=for-the-badge&logo=bootstrap&logoColor=white)
-  <br>
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=ff80bf&style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=ff80bf&style=for-the-badge&logo=css3&logoColor=white)   
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=ff80bf&style=for-the-badge&logo=bootstrap&logoColor=white)  
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=ff80bf&style=for-the-badge&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=ff80bf&style=for-the-badge&logo=Canva&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&color=ff80bf&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&color=ff80bf&style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&color=ff80bf&style=for-the-badge&logo=mysql&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=ff80bf&style=for-the-badge&logo=Canva&logoColor=white)  
 </div>
 
 <div align="center">
