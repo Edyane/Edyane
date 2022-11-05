@@ -25,11 +25,11 @@
 <div align="center">
   <h1>𝖲𝗍𝖺𝖼𝗄𝗌</h1>
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=947EB0&style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=947EB0&style=for-the-badge&logo=css3&logoColor=white)   
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=947EB0&style=for-the-badge&logo=bootstrap&logoColor=white)  
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=947EB0&style=for-the-badge&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=947EB0&style=for-the-badge&logo=Canva&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=ff80bf&style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=ff80bf&style=for-the-badge&logo=css3&logoColor=white)   
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=ff80bf&style=for-the-badge&logo=bootstrap&logoColor=white)  
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=ff80bf&style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=ff80bf&style=for-the-badge&logo=Canva&logoColor=white)  
 </div>
 
 <div align="center">
