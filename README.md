@@ -6,7 +6,7 @@
 
 <div align="center">
   <div>
-    <img src="https://64.media.tumblr.com/e0ece1bf9199846a0e9bc3771bce9067/tumblr_oxf272UTHf1tm0v69o1_1280.pnj" width="600px" align="center">
+    <img src="https://64.media.tumblr.com/6bf8ceabda28a477c5345a24448b4471/730c26d7cd119ba0-15/s1280x1920/ce9a029f5c53233f8bfed9ba174da3f4019af660.pnj" width="600px" align="center">
   </div>
 </div>
 
