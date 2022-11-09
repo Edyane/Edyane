@@ -6,7 +6,7 @@
 
 <div align="center">
   <div>
-    <img src="https://64.media.tumblr.com/e0ece1bf9199846a0e9bc3771bce9067/tumblr_oxf272UTHf1tm0v69o1_1280.pnj" width="600px" align="center">
+    <img src="" width="600px" align="center">
   </div>
 </div>
 
