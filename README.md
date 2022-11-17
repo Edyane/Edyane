@@ -59,5 +59,9 @@
 <div>
 
 ![](https://komarev.com/ghpvc/?username=edyane&color=E673B3&style=for-the-badge)
-</div>    
+</div>     
 </div>
+
+<div align="center">
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=northerndownpour_)
+</div>    
