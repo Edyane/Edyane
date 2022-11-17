@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=D62598&width=540&lines=Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=30D5C8&width=540&lines=Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,14 +25,14 @@
 <div align="center">
   <h1>𝖲𝗍𝖺𝖼𝗄𝗌</h1>
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=D62598&style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=D62598&style=for-the-badge&logo=css3&logoColor=white) 
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&color=D62598&style=for-the-badge&logo=SASS&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=D62598&style=for-the-badge&logo=javascript&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=D62598&style=for-the-badge&logo=bootstrap&logoColor=white)  
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=D62598&style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=D62598&style=for-the-badge&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=D62598&style=for-the-badge&logo=Canva&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=30D5C8&style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=30D5C8&style=for-the-badge&logo=css3&logoColor=white) 
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&color=30D5C8&style=for-the-badge&logo=SASS&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=30D5C8&style=for-the-badge&logo=javascript&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=30D5C8&style=for-the-badge&logo=bootstrap&logoColor=white)  
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=30D5C8&style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=30D5C8&style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=30D5C8&style=for-the-badge&logo=Canva&logoColor=white)  
   
 </div>
 
@@ -58,6 +58,6 @@
 
 <div>
 
-![](https://komarev.com/ghpvc/?username=edyane&color=ff80bf&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=edyane&color=30D5C8&style=for-the-badge)
 </div>    
 </div>
