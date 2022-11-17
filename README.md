@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=30D5C8&width=540&lines=Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=fb718a&width=540&lines=Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   <div>
-    <img src="https://64.media.tumblr.com/e701863c5fce9616771e297792b1d1f5/730c26d7cd119ba0-88/s1280x1920/588acfe77270f89232b08370bf2fa022c30b4f42.pnj" width="600px" align="center">
+    <img src="https://64.media.tumblr.com/e61599bccb1d8a90079627f7ddd4eb86/730c26d7cd119ba0-1e/s1280x1920/33a8b560fffba4e53e42a79297f3ade36d8e924d.pnj" width="600px" align="center">
   </div>
 </div>
 
@@ -25,14 +25,14 @@
 <div align="center">
   <h1>𝖲𝗍𝖺𝖼𝗄𝗌</h1>
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=30D5C8&style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=30D5C8&style=for-the-badge&logo=css3&logoColor=white) 
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&color=30D5C8&style=for-the-badge&logo=SASS&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=30D5C8&style=for-the-badge&logo=javascript&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=30D5C8&style=for-the-badge&logo=bootstrap&logoColor=white)  
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=30D5C8&style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=30D5C8&style=for-the-badge&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=30D5C8&style=for-the-badge&logo=Canva&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=fb718a&style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=fb718a&style=for-the-badge&logo=css3&logoColor=white) 
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&color=fb718a&style=for-the-badge&logo=SASS&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=fb718a&style=for-the-badge&logo=javascript&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=fb718a&style=for-the-badge&logo=bootstrap&logoColor=white)  
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=fb718a&style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=fb718a&style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=fb718a&style=for-the-badge&logo=Canva&logoColor=white)  
   
 </div>
 
@@ -58,6 +58,6 @@
 
 <div>
 
-![](https://komarev.com/ghpvc/?username=edyane&color=30D5C8&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=edyane&color=fb718a&style=for-the-badge)
 </div>    
 </div>
