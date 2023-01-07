@@ -46,7 +46,7 @@
 <div align="center">
   <h1>𝖲𝗇𝖺𝗄𝖾 𝖦𝖺𝗆𝖾</h1>
   
-  ![snake animation](https://raw.githubusercontent.com/Edyane/Edyane/output/github-contribution-grid-snake-dark.svg)
+  ![snake animation](https://raw.githubusercontent.com/Edyane/Edyane/output/github-contribution-grid-snake.svg)
 </div>
   
 <div align="center">
