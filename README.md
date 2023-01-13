@@ -25,14 +25,15 @@
 <div align="center">
   <h1>𝖲𝗍𝖺𝖼𝗄𝗌</h1>
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=AA7DCE&style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=AA7DCE&style=for-the-badge&logo=css3&logoColor=white) 
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&color=AA7DCE&style=for-the-badge&logo=SASS&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=AA7DCE&style=for-the-badge&logo=javascript&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=AA7DCE&style=for-the-badge&logo=bootstrap&logoColor=white)  
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=AA7DCE&style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=AA7DCE&style=for-the-badge&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&color=AA7DCE&style=for-the-badge&logo=Canva&logoColor=white)  
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=AA7DCE&style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=AA7DCE&style=for-the-badge&logo=css3&logoColor=white)
+   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&color=AA7DCE&style=for-the-badge&logo=SASS&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=AA7DCE&style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=AA7DCE&style=for-the-badge&logo=javascript&logoColor=white)
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&color=AA7DCE&style=for-the-badge&logo=node.js&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?&color=AA7DCE&style=for-the-badge&logo=react&logoColor=white)
+   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?&color=AA7DCE&style=for-the-badge&logo=vuedotjs&logoColor=white)
+   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=AA7DCE&style=for-the-badge&logo=figma&logoColor=white)   
   
 </div>
 
@@ -52,7 +53,7 @@
 <div align="center">
   <h1>𝖲𝗉𝗈𝗍𝗂𝖿𝗒</h1>
   
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=northerndownpour_&count=4)
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=northerndownpour_&count=3)
 </div>  
 
 
