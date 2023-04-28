@@ -17,26 +17,18 @@
 
 <div align="center">
   <h1>𝖢𝗈𝗇𝗍𝖺𝖼𝗍</h1>
-  <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=282a36&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://profile.codersrank.io/user/edyane" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=282a36&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=282a36&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=AA7DCE&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://profile.codersrank.io/user/edyane" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=AA7DCE&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=AA7DCE&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
   <h1>𝖲𝗍𝖺𝖼𝗄𝗌</h1>
-  
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=AA7DCE&style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=AA7DCE&style=for-the-badge&logo=css3&logoColor=white)
-   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&color=AA7DCE&style=for-the-badge&logo=SASS&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=AA7DCE&style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=AA7DCE&style=for-the-badge&logo=tailwind-css&logoColor=white)
-   <br>
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=AA7DCE&style=for-the-badge&logo=javascript&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?&color=AA7DCE&style=for-the-badge&logo=react&logoColor=white)
-   ![Next JS](https://img.shields.io/badge/Next-black?&color=AA7DCE&style=for-the-badge&logo=next.js&logoColor=white)
-   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&color=AA7DCE&style=for-the-badge&logo=node.js&logoColor=white)
-   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=AA7DCE&style=for-the-badge&logo=figma&logoColor=white)   
-  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,javascript,react,next,nodejs,figma" />
+  </a>
+</p>  
 </div>
 
 <div align="center">
