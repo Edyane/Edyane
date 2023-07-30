@@ -66,7 +66,7 @@
 </div>
 
 <div>
-
-
+  
+  ![](https://komarev.com/ghpvc/?username=edyane&color=AA7DCE&style=for-the-badge)
 </div>     
 </div>
