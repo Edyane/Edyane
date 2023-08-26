@@ -60,13 +60,8 @@
 
 
 <div align="center">
-  <h1>𝖵𝗂𝖾𝗐𝗌<h1>
-<div>
- <img height="140" src="https://c.tenor.com/rg2aP4tIS6cAAAAi/bubududu-panda.gif"/>
-</div>
-
-<div>
-  
-  ![](https://komarev.com/ghpvc/?username=edyane&color=AA7DCE&style=for-the-badge)
-</div>     
+<!--   <h1>𝖵𝗂𝖾𝗐𝗌<h1> -->
+  <div>
+   <img height="140" src="https://c.tenor.com/rg2aP4tIS6cAAAAi/bubududu-panda.gif"/>
+  </div>  
 </div>
