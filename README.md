@@ -60,8 +60,5 @@
 
 
 <div align="center">
-<h1>♡<h1>
-  <div>
    <img height="140" src="https://c.tenor.com/rg2aP4tIS6cAAAAi/bubududu-panda.gif"/>
-  </div>  
 </div>
