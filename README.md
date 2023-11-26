@@ -36,8 +36,6 @@
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=AA7DCE&style=for-the-badge&logo=javascript&logoColor=white)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?&color=AA7DCE&style=for-the-badge&logo=react&logoColor=white)
    ![Next JS](https://img.shields.io/badge/Next-black?&color=AA7DCE&style=for-the-badge&logo=next.js&logoColor=white)
-   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?&color=AA7DCE&style=for-the-badge&logo=react&logoColor=white)
-   ![Expo](https://img.shields.io/badge/expo-1C1E24?&color=AA7DCE&style=for-the-badge&logo=expo&logoColor=#D04A37)
 </div>
 
 <div align="center">
