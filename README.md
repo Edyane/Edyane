@@ -32,10 +32,12 @@
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=AA7DCE&style=for-the-badge&logo=bootstrap&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=AA7DCE&style=for-the-badge&logo=tailwind-css&logoColor=white)
    <br>
-   ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?&color=AA7DCE&style=for-the-badge&logo=styled-components&logoColor=white)
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=AA7DCE&style=for-the-badge&logo=figma&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=AA7DCE&style=for-the-badge&logo=javascript&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&color=AA7DCE&style=for-the-badge&logo=typescript&logoColor=white)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?&color=AA7DCE&style=for-the-badge&logo=react&logoColor=white)
+   ![Next JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&color=AA7DCE&&style=for-the-badge)
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&color=AA7DCE&style=for-the-badge&logo=node.js&logoColor=white)
 </div>
 
 <div align="center">
