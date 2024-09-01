@@ -37,8 +37,11 @@
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=AA7DCE&style=for-the-badge&logo=javascript&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&color=AA7DCE&style=for-the-badge&logo=typescript&logoColor=white)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?&color=AA7DCE&style=for-the-badge&logo=react&logoColor=white)
-   ![Next JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&color=AA7DCE&&style=for-the-badge)
+   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?&color=AA7DCE&style=for-the-badge&logo=vite&logoColor=white)
+   ![Next JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&color=AA7DCE&style=for-the-badge)
+   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&color=AA7DCE&style=for-the-badge&logo=vercel&logoColor=white)
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&color=AA7DCE&style=for-the-badge&logo=node.js&logoColor=white)
+
 </div>
 
 <div align="center">
