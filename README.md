@@ -26,20 +26,24 @@
 <div align="center">
   <h1>𝖲𝗍𝖺𝖼𝗄𝗌</h1>
   
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&color=AA7DCE&style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&color=AA7DCE&style=for-the-badge&logo=css3&logoColor=white)
-   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&color=AA7DCE&style=for-the-badge&logo=SASS&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&color=AA7DCE&style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&color=AA7DCE&style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&color=AA7DCE&style=for-the-badge&logo=figma&logoColor=white)
-   <br>
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&color=AA7DCE&style=for-the-badge&logo=javascript&logoColor=white)
-   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&color=AA7DCE&style=for-the-badge&logo=typescript&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?&color=AA7DCE&style=for-the-badge&logo=react&logoColor=white)
-   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?&color=AA7DCE&style=for-the-badge&logo=vite&logoColor=white)
-   ![Next JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&color=AA7DCE&style=for-the-badge)
-   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&color=AA7DCE&style=for-the-badge&logo=vercel&logoColor=white)
-   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&color=AA7DCE&style=for-the-badge&logo=node.js&logoColor=white)
+   <div>
+   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50" height="50">
+   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50">  
+   <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50" height="50">  
+   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="50" height="50">  
+   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" width="50" height="50">  
+   <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50" height="50">  
+</div>
 
 </div>
 
