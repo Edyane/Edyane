@@ -11,12 +11,13 @@
 </div>
 
 <div align="center">
- <h1>𝖠𝖻𝗈𝗎𝗍 𝗆𝖾</h1>  
- ♡ 𝖧𝗈𝖻𝖻𝗂𝖾𝗌: 𝖫𝖾𝖺𝗀𝗎𝖾 𝗈𝖿 𝖫𝖾𝗀𝖾𝗇𝖽𝗌, 𝖳𝗁𝖾 𝖲𝗂𝗆𝗌 𝖺𝗇𝖽 𝖠𝗇𝗂𝗆𝖾𝗌 ♡ <br>
+ <h2>𝖠𝖻𝗈𝗎𝗍 𝗆𝖾</h2>  
+ ♡ 𝖧𝗈𝖻𝖻𝗂𝖾𝗌: 𝖫𝖾𝖺𝗀𝗎𝖾 𝗈𝖿 𝖫𝖾𝗀𝖾𝗇𝖽𝗌, 𝖠𝗇𝗂𝗆𝖺𝗅 𝖢𝗋𝗈𝗌𝗌𝗂𝗇𝗀 𝖺𝗇𝖽 𝖺𝗇𝗂𝗆𝖾𝗌 ♡ <br/>
+ ♡ 𝖤𝖽𝗎𝖼𝖺𝗍𝗂𝗈𝗇: 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 - 𝖴𝗇𝖡 / 𝖠𝖣𝖲 - 𝖴𝖣𝖥 ♡ 
 </div>
 
 <div align="center">
-  <h1>𝖢𝗈𝗇𝗍𝖺𝖼𝗍</h1>
+  <h2>𝖢𝗈𝗇𝗍𝖺𝖼𝗍</h2>
   <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=282A36&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://profile.codersrank.io/user/edyane" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=282A36&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=282A36&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -24,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h1>𝖲𝗍𝖺𝖼𝗄𝗌</h1>
+  <h2>𝖲𝗍𝖺𝖼𝗄𝗌</h2>
   
    <div>
    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50" height="50">
@@ -46,14 +47,14 @@
 </div>
 
 <div align="center">
-  <h1>𝖲𝗍𝖺𝗍𝗌</h1>
+  <h2>𝖲𝗍𝖺𝗍𝗌</h2>
     <a href="https://github.com/Edyane">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edyane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://streak-stats.demolab.com/?user=Edyane&theme=dracula"/>
 </div>
 
 <div align="center">
-  <h1>𝖲𝗇𝖺𝗄𝖾 𝖦𝖺𝗆𝖾</h1>
+  <h2>𝖲𝗇𝖺𝗄𝖾 𝖦𝖺𝗆𝖾</h2>
   
   <!--![snake animation](https://raw.githubusercontent.com/Edyane/Edyane/output/github-contribution-grid-snake.svg)-->
   <picture>
@@ -64,7 +65,7 @@
 </div>
   
 <div align="center">
-  <h1>𝖲𝗉𝗈𝗍𝗂𝖿𝗒</h1>
+  <h2>𝖲𝗉𝗈𝗍𝗂𝖿𝗒</h2>
   
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=northerndownpour_&count=3)
 </div>  
