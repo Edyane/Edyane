@@ -64,7 +64,7 @@
 </div>
   
 <div align="center">
-  <h2>𝖲𝗉𝗈𝗍𝗂𝖿𝗒</h2>
+  <h1>𝖲𝗉𝗈𝗍𝗂𝖿𝗒</h1>
   
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=northerndownpour_&count=3)
 </div>  
