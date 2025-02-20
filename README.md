@@ -1,8 +1,17 @@
 <div align="center">
+  <h1>𝖧𝗂, 𝖨'𝗆 𝖤𝖽𝗒𝖺𝗇𝖾 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fancy&weight=500&size=28&pause=1000&color=AA7DCE&center=true&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+
+</div>
+
+<!--
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=AA7DCE&width=540&lines=Hello%2C+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 </div>
+-->
 
 <div align="center">
   <div>
