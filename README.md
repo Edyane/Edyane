@@ -66,4 +66,11 @@
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=northerndownpour_&count=5)
 </div>  
 
+<div align="center">
+  <h1>♡</h1>
+	
+   <img height="150em" src="https://media.discordapp.net/attachments/783406681618251808/1429233311028482098/animal_crossing.jpg?ex=68f564bf&is=68f4133f&hm=48e6b2f9ef83dc84202e91adf7370b713f84c7af1ea605d2a2ba75bdcafcbaa0&=&format=webp"/>
+</div>  
+
+
 
