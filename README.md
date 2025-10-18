@@ -69,7 +69,7 @@
 <div align="center">
   <h1>♡</h1>
 	
-   <img height="150em" src="https://media.discordapp.net/attachments/783406681618251808/1429233311028482098/animal_crossing.jpg?ex=68f564bf&is=68f4133f&hm=48e6b2f9ef83dc84202e91adf7370b713f84c7af1ea605d2a2ba75bdcafcbaa0&=&format=webp"/>
+   <img height="150em" src="https://64.media.tumblr.com/f0e164e0e29643796b9c107cd04b7788/c811946d291e8c7c-bf/s540x810/48a5380a61d52436c1cd142c51246ff1930b84d9.gifv"/>
 </div>  
 
 
