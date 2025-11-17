@@ -27,9 +27,10 @@
 <div align="center">
   <h1>𝖢𝗈𝗇𝗍𝖺𝖼𝗍</h1>
   <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=282A36&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://profile.codersrank.io/user/edyane" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=282A36&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a>  
+  <!-- <a href="https://profile.codersrank.io/user/edyane" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=282A36&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a>   -->
   <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=282A36&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--   <a href="https://steamcommunity.com/profiles/76561199052041024/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?&color=282A36&style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.credly.com/users/edyane" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?&color=282A36&style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a> 
+  <a href="https://pt.duolingo.com/profile/edyane182" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?&color=282A36&style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
