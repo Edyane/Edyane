@@ -43,12 +43,12 @@
   </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h1>𝖲𝗍𝖺𝗍𝗌</h1>
     <a href="https://github.com/Edyane">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Edyane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://streak-stats.demolab.com/?user=Edyane&theme=dracula"/>
-</div>
+</div> -->
 
 <div align="center">
   <h1>𝖲𝗇𝖺𝗄𝖾 𝖦𝖺𝗆𝖾</h1>
