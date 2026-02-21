@@ -67,11 +67,11 @@
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=northerndownpour_&count=5)
 </div>  
 
-<div align="center">
+<!-- <div align="center">
   <h1>♡</h1>
 	
    <img height="180em" src="https://64.media.tumblr.com/cf1f5e31b809ad463d1fb8a73f2e7caa/d6bfaa50faf7a2a2-6a/s250x400/b58a3ac0a17760603520b0e9108df9aa76989dba.gifv"/>
-</div>  
+</div>   -->
 
 
 
