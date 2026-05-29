@@ -56,6 +56,10 @@
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/Edyane/1158DD76763D5699?sharingId=CD72805C997A30BD" target="_blank">
 	<img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="105"/>
   </a>&nbsp;&nbsp;
+
+  <a href="(link do comprovante)" target="_blank">
+  	<img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="105"/>
+  </a>&nbsp;&nbsp;
   
 </div>
 
