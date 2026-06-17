@@ -5,17 +5,12 @@
 
 </div>
 
-<!--
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=AA7DCE&width=540&lines=Hello%2C+welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
-</div>
--->
 
 <div align="center">
   <div>
-    <img src="https://64.media.tumblr.com/ad9e8486be2b084a1968a6b09ef2fb5e/12cb4cb11f0a4d46-0a/s500x750/b0535f7ab61f0c5e417b4a4334d7d2ee6032d833.gifv" width="450px" align="center">
+    <a href="https://edyane.dev" target="_blank" rel="noopener noreferrer">
+      <img src="https://64.media.tumblr.com/ad9e8486be2b084a1968a6b09ef2fb5e/12cb4cb11f0a4d46-0a/s500x750/b0535f7ab61f0c5e417b4a4334d7d2ee6032d833.gifv" width="450px" align="center" alt="Retro Desk">
+    </a>
   </div>
 </div>
 
