@@ -40,6 +40,12 @@
 <div align="center">
   <h1>𝖢𝖾𝗋𝗍𝗂𝖿𝗂𝖼𝖺çõ𝖾𝗌</h1>
 
+  <a href="(link do comprovante)" target="_blank">
+  	<img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
+  </a>
+
+  <br>
+
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/Edyane/44D84AA344E4DE90?sharingId=CD72805C997A30BD" target="_blank">
 	<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="105"/>
  </a>&nbsp;&nbsp;
