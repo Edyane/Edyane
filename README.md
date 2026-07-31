@@ -40,7 +40,7 @@
 <div align="center">
   <h1>𝖢𝖾𝗋𝗍𝗂𝖿𝗂𝖼𝖺çõ𝖾𝗌</h1>
 
-  <a href="(link do comprovante)" target="_blank">
+  <a href="https://www.credly.com/badges/e879e9c8-d177-479f-b3fe-6522b470054c/public_url" target="_blank">
   	<img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
   </a>
 
