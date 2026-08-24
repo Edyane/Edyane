@@ -24,7 +24,6 @@
   <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=282A36&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=282A36&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.credly.com/users/edyane" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?&color=282A36&style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a> 
-  <a href="https://pt.duolingo.com/profile/edyane182" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?&color=282A36&style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
