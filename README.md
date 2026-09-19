@@ -49,7 +49,7 @@
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/Edyane/44D84AA344E4DE90?sharingId=CD72805C997A30BD" target="_blank"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="105"/></a>&nbsp;&nbsp;
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/Edyane/7D1D2B5B772627F4?sharingId=CD72805C997A30BD" target="_blank"><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="105"/></a>&nbsp;&nbsp;
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/Edyane/1158DD76763D5699?sharingId=CD72805C997A30BD" target="_blank"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="105"/></a>&nbsp;&nbsp;
- <a href="(link do comprovante)" target="_blank"><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="105"/></a>&nbsp;&nbsp;
+ <a href="https://learn.microsoft.com/api/credentials/share/pt-br/Edyane/35E4C9EECA9674A6?sharingId=CD72805C997A30BD" target="_blank"><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="105"/></a>&nbsp;&nbsp;
   
 </div>
 
