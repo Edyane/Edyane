@@ -21,9 +21,10 @@
 
 <div align="center">
   <h1>𝖢𝗈𝗇𝗍𝖺𝖼𝗍</h1>
-  <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=282A36&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=282A36&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.credly.com/users/edyane" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?&color=282A36&style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a> 
+  <a href="https://edyane.dev/"><img src="https://img.shields.io/badge/%F0%9F%8C%B8_Portfolio-%23000000.svg?style=for-the-badge&logoColor=%232A36" target="_blank"/></a>
+  <a href ="mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%8C%B8_Gmail-%23000000.svg?style=for-the-badge&logoColor=%232A36" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%B8_LinkedIn-%23000000.svg?style=for-the-badge&logoColor=%232A36" target="_blank"></a> 
+  <a href="https://www.credly.com/users/edyane" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%B8_Credly-%23000000.svg?style=for-the-badge&logoColor=%232A36" target="_blank"></a> 
 </div>
 
 <div align="center">
